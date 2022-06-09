@@ -85,7 +85,7 @@ img{
     background-position: center top;
 }
 #home {
-    background-image: url(../images/カフェ\　背景.jpg);
+    background-image: url(../images/Cafe-background.jpg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -95,7 +95,7 @@ img{
 /* NEWS
 ----------------------------*/
 #news {
-    background-image: url(../images/植物＆コーヒー.jpg);
+    background-image: url(../images/newmenu-big-background.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -202,7 +202,7 @@ aside p {
 /* MENU
 ------------------------------- */
 #menu {
-    background-image: url(../images/menu-大きな背景.jpg);
+    background-image: url(../images/menu-big-background.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -229,7 +229,7 @@ aside p {
 /* CONTACT
 ------------------------------- */
 #contact {
-    background-image: url(../images/扉.jpg);
+    background-image: url(../images/door.jpg);
     min-height: 100vh;
 }
 
