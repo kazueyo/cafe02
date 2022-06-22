@@ -33,7 +33,7 @@ img{
     margin-left: 36px;
 }
 .main-nav a {
-    color: #432;
+    color: rgb(192, 96, 0);
 }
 .main-nav a:hover {
     color: #0bd;
@@ -65,7 +65,7 @@ img{
     font-family:'Cardo', serif;
     text-transform: uppercase;
     font-weight: normal;
-    line-height: 10%;
+    line-height: 0%;
 }
 
 /*　ボタン */
@@ -102,7 +102,7 @@ img{
 }
 #news .page-title {
     text-align: center;
-    line-height: 10%;    
+    line-height: 0%;    
 }
 /* フッター
 ---------------------------*/
@@ -213,7 +213,7 @@ aside p {
 }
 .menu-content .page-title {
     text-align: center;
-    line-height: 10%;
+    line-height: 0%;
 }
 .menu-content p {
     font-size: 1.125rem;
