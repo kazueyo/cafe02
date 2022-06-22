@@ -65,7 +65,7 @@ img{
     font-family:'Cardo', serif;
     text-transform: uppercase;
     font-weight: normal;
-    line-height : 1em;             /* 行の高さ */
+    line-height: 10%;
 }
 
 /*　ボタン */
@@ -102,7 +102,7 @@ img{
 }
 #news .page-title {
     text-align: center;
-    line-height : 1em;             /* 行の高さ */
+    line-height: 10%;    
 }
 /* フッター
 ---------------------------*/
