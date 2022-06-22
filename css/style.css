@@ -65,6 +65,7 @@ img{
     font-family:'Cardo', serif;
     text-transform: uppercase;
     font-weight: normal;
+    line-height : 1em;             /* 行の高さ */
 }
 
 /*　ボタン */
