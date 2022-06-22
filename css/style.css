@@ -102,6 +102,7 @@ img{
 }
 #news .page-title {
     text-align: center;
+    line-height : 1em;             /* 行の高さ */
 }
 /* フッター
 ---------------------------*/
@@ -212,6 +213,7 @@ aside p {
 }
 .menu-content .page-title {
     text-align: center;
+    line-height : 1em;             /* 行の高さ */
 }
 .menu-content p {
     font-size: 1.125rem;
